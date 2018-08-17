@@ -2,7 +2,7 @@
 
 Learning a new language is tough.
 
-Personally I am using Duolingo and a language course to learn German.
+Personally, I am using Duolingo and a language course to learn German.
 
 There are words that just won't stick so I have created a quick app to test my current teflon words.
 
