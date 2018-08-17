@@ -8,7 +8,7 @@ There are words that just won't stick so I have created a quick app to test my c
 
 Use iTunes to upload your own file: iTunes > Device > File Sharing > WeakWords.
 
-The file format is:
+The file format is comma separated with a new line for each word or phrase:
 [word or phrase you are trying to learn],[meaning]
   
 The Stongbad image is from: http://trollpasta.wikia.com/wiki/SBemail_206 under CC licence.
