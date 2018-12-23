@@ -72,6 +72,16 @@ class WordTestViewController : UIViewController {
             self.clueLabel.text = ""
             self.answerLabel.text = ""
             
+            // Nouns: Should also include the plural
+            // Verbs: Should have present, perfect and past
+                // For example
+                // Principal parts of the verb: arbeiten - arbeitet - arbeitete - hat gearbeitet
+//            if strings[0].contains("das ") {
+//
+//            } else if strings[0].contains("der ") {
+//            } else if strings[0].contains("die ") {
+//            }
+            
             if strings.count == 2 {
                 if self.mode == .guess {
                     self.clueLabel.text = strings[0]
